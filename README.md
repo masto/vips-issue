@@ -35,7 +35,7 @@ uploading JPEGs, and note that they will work every time.
 
 ## Puzzle over it
 
-Take note of how the code in src/app/page.tsx works. It simply shells out to
+Take note of how the code in [src/app/page.tsx](src/app/page.tsx) works. It simply shells out to
 the `vips` command, in the same way every time. Each invocation runs in a new
 process. So how is it possible that the first one works and the second one
 doesn't? Why does it only affect HEIC files? These are the mysteries that
