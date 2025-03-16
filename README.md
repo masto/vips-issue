@@ -45,3 +45,9 @@ Note that the solution here is not "don't do that". This is a synthetic
 project to demonstrate an interesting problem, and the game is to understand
 what the problem is. Once it is understood, a number of solutions present
 themselves.
+
+## Read the story (and the answer)
+
+I have a full writeup of this over at my blog:
+
+https://chrismasto.com/blog/2025/03/15/vips
